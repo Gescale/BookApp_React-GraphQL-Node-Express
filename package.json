@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test"
   },
-  "author": "Gescale",
+  "author": "Gescale Darati",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
